@@ -1,7 +1,9 @@
 # **QuadPower Motor Driver Board – Full Documentation**  
 
-<img src="images/quadpower-front-500x578.png" alt="QuadPower Board" width="300">
-<img src="images/quadpower-back-500x578.png" alt="QuadPower Board" width="300">
+<div style="display: flex; gap: 20px;">
+  <img src="../images/quadpower-front-500x578.png" alt="QuadPower Board" width="300">
+  <img src="../images/quadpower-back-500x578.png" alt="QuadPower Board" width="300">
+</div>
 
 📌 **Version:** 1.0  
 📆 **Last Updated:** February 2025  
